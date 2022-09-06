@@ -1,4 +1,4 @@
-# jellylyrics
+# Jellylyrics
 
 Adds new API endpoint /Items/%ITEMID%/Lyrics that returns local lyric files as JSON.
 
