@@ -9,6 +9,14 @@
         "imageUrl": "https://raw.githubusercontent.com/1hitsong/jellylyrics/main/logo/logo.png",
         "versions": [
             {
+                "version": "1.0.0.1",
+                "changelog": "Add blank config",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/1hitsong/jellylyrics/releases/download/1.0.0.1/Jellylyrics_v1.0.0.1",
+                "checksum": "5805c3ec28de721cbac2ef63012928f6",
+                "timestamp": "2022-09-06T21:34:00Z"
+            },
+            {
                 "version": "1.0.0.0",
                 "changelog": "Initial release",
                 "targetAbi": "10.8.0.0",
